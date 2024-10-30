@@ -1,4 +1,4 @@
-This project uses the web framework fastAPI to get and add sheep to a database constructed in a python file.  
+This project uses the web framework fastAPI to get the data and add sheep to a database constructed in a python file.  
 Along with conducting tests to ensure each method works as expected. 
 
 A virtual environment needs to be started before attempting to run the API. You can do this for windows in the powershell:
